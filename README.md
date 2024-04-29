@@ -22,4 +22,4 @@
 
 |Certification                              |Acquisition date         |
 |-------------------------------------------------------|-------------|
-|TOEIC 825 scored                                            |2022/10|
+|TOEIC Listening & Reading Test 825 scored  |2022/10|
