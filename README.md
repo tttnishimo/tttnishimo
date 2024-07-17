@@ -14,12 +14,20 @@
 
 ### :books: IPA
 
-|Certification                              |Acquisition date         |
-|----------------------------------------------------|------|
-|情報処理安全確保支援士  |2018/12|
+|Certification                  |Acquisition date|
+|-------------------------------|----------------|
+|情報処理安全確保支援士          |2018/12         |
 
 ### :book: English
 
-|Certification                              |Acquisition date         |
-|-------------------------------------------------------|-------------|
+|Certification                  |Acquisition date|
+|-------------------------------|----------------|
 |TOEIC Listening & Reading Test 825 scored  |2022/10|
+
+
+## Technology Stack
+
+
+|Category             |Technology Stack    |
+|---------------------|--------------------|
+|3DCG                 |Blender 4.2         |
