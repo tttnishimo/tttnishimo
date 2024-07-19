@@ -30,4 +30,11 @@
 
 |Category             |Technology Stack    |
 |---------------------|--------------------|
+|Programming Languages|Python              |
+|Programming Languages|C#                  |
+|Programming Languages|JavaScript          |
+|Framework            |React               |
+|DB                   |MySQL               |
+|Infrastructure       |Microsoft Azure     |
 |3DCG                 |Blender 4.2         |
+|Game Engine          |Unreal Engine       |
